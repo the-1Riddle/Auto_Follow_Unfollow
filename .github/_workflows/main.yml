@@ -2,7 +2,7 @@ name: Follow-Unfollow GitHub Users
 
 on:
   schedule:
-    - cron: "*/10 * * * *"  # Runs at midnight UTC every day
+    - cron: "0 0 * * *"  # Runs at midnight UTC every day
   workflow_dispatch:     # Allows the workflow to be run manually
 
 jobs:
