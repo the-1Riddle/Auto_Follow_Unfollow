@@ -1,7 +1,7 @@
 #!/bin/env bash
 
 # GitHub username and token
-GITHUB_USERNAME="${GITHUB_USERNAME}"
+GITHUB_USERNAME="${USAGE_NAME}"
 USAGE_TOKEN="${USAGE_TOKEN}"
 
 # Function to fetch all pages of users
