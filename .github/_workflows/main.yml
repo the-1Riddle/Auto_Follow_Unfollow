@@ -1,8 +1,8 @@
-name: Follow-Unfollow GitHub Users
+name: AFUf GitHub Users
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs at midnight UTC every day
+    - cron: "0 0 * * *"
   workflow_dispatch:     # Allows the workflow to be run manually
 
 jobs:
@@ -19,6 +19,6 @@ jobs:
       - name: Run follow-unfollow script
         env:
           GITHUB_USERNAME: ${{ secrets.USAGE_NAME }}
-          USAGE_TOKEN: ${{ secrets.USAGE_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.USAGE_TOKEN }}
         run: |
           ./script.sh

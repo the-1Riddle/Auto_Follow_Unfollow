@@ -26,11 +26,6 @@
 |-----------------------------------------|---------------------------------------------|
 | ![image](https://github.com/the-1Riddle/Github-Profile-Achievements/assets/154701770/3b0ea7fd-48eb-4b51-9688-96b637e6bd8f) | ![Screenshot from 2024-05-28 16-10-21](https://github.com/the-1Riddle/Auto_Follow_Unfollow/assets/154701770/d68cc11c-26df-4ff6-8412-609add7da7b4) |
 
-
-> [!IMPORTANT]<br>
-> Make sure `script.sh` file is changed to an executable file:\
-> You can open your repo on a codespace and achieve that by running the command `chmod u+x script.sh` Alternatively, you can clone your repo and then run the same command.
-
 ## License
 
 This template and the code in it is licensed under the [MIT License](https://github.com/the-1Riddle/Auto_Follow_Unfollow/blob/main/LICENSE).
