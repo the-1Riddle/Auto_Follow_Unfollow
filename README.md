@@ -18,8 +18,8 @@
 <br>
 
 - Navigate to ***Secrets and variables*** which is located at the left bar of the repos settings then select `Actions`, after:
-  + create a variable named `USER_NAME` and assign your GitHub user name to it
-  + create a variable named `USER_TOKEN` and assign your token to it: for more info check on [How to generate GitHub token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-fine-grained-personal-access-token) <br>
+  + create a variable named `USAGE_NAME` and assign your GitHub user name to it
+  + create a variable named `USAGE_TOKEN` and assign your token to it: for more info check on [How to generate GitHub token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-fine-grained-personal-access-token) <br>
   make sure **User** is checked when generating a new token.
 
 | Image example | Image example2 |
